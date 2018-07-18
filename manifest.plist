@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>http://clibuilder.fygame.com/publish/ipa/xiyouios/honghuangxiantu/xiyouiosTest_hhxt_3.4.2485.ipa</string>
 				</dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://github.com/HuYaming520/ipa_install/blob/master/Icon57.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://github.com/HuYaming520/ipa_install/blob/master/512.png</string>
+                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -25,18 +37,6 @@
 				<key>title</key>
 				<string>洪荒仙途</string>
 			</dict>
-		</dict>
-		<dict>
-			<key>kind</key>
-			<string>display-image</string>
-			<key>url</key>
-			<string>https://github.com/HuYaming520/ipa_install/blob/master/Icon57.png</string>
-		</dict>
-		<dict>
-			<key>kind</key>
-			<string>full-size-image</string>
-			<key>url</key>
-			<string>https://github.com/HuYaming520/ipa_install/blob/master/512.png</string>
 		</dict>
 	</array>
 </dict>
