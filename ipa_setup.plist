@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterid</key>
+	<string>92</string>
+	<key>pid</key>
+	<string>22238</string>
+	<key>gcid</key>
+	<string>2164</string>
+	<key>aid</key>
+	<string>0</string>
+	<key>mid</key>
+	<string>0</string>
+	<key>tid</key>
+	<string>0</string>
+	<key>mn</key>
+	<string>0</string>
+	<key>sdkversion</key>
+	<string>2.8.9</string>
+	<key>crashKey</key>
+	<string></string>
+	<key>TrackingIOKey</key>
+	<string></string>
+	<key>sapp_key</key>
+	<string></string>
+	<key>appearanceColor</key>
+	<string>1</string>
+</dict>
+</plist>
